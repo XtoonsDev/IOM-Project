@@ -1,6 +1,4 @@
-# Liste des Patterns en cours :
-
-## 📊 Qu'est-ce qu'un Pattern en Bourse ?
+# 📊 Qu'est-ce qu'un Pattern en Bourse ?
 
 Un **Pattern**, ou motif graphique, en bourse est une formation visuelle sur un graphique des prix d'un actif (comme une action, une crypto-monnaie, ou une matière première) qui indique un comportement récurrent du marché. Les traders et les analystes utilisent ces patterns pour essayer de prédire les mouvements futurs des prix.
 
@@ -13,7 +11,9 @@ Les patterns sont basés sur les variations des prix et peuvent signaler des ret
 
 Apprendre à reconnaître ces patterns peut aider les traders à prendre des décisions d'achat ou de vente basées sur des probabilités historiques.
 
+---
 
+# Liste des Patterns en cours :
 ## Patterns de Continuation
 1. [ ] **Flag (Drapeau)** : Petite consolidation après une forte impulsion, avant une reprise dans la même direction. ![En cours d'entraînement](https://img.shields.io/badge/état-En%20cours%20d'entraînement-orange)
 2. [ ] **Pennant (Fanion)** : Forme de petit triangle formé après une forte impulsion, indiquant une continuation.

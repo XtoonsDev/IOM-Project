@@ -1,6 +1,4 @@
-# Liste des Indicateurs Techniques
-
-## 📈 Qu'est-ce qu'un Indicateur Technique en Bourse ?
+# 📈 Qu'est-ce qu'un Indicateur Technique en Bourse ?
 
 Un **Indicateur Technique** est un outil mathématique utilisé dans l'analyse technique pour évaluer et prédire les mouvements de prix des actifs financiers. Ces indicateurs sont calculés à partir de données historiques de marché, telles que les prix, les volumes de transactions, ou d'autres métriques, et aident les traders à prendre des décisions informées.
 
@@ -13,6 +11,9 @@ Les indicateurs techniques se présentent souvent sous forme de lignes ou de gra
 
 Les indicateurs techniques sont essentiels pour les traders qui basent leurs stratégies sur l'analyse technique, car ils fournissent des signaux objectifs pour guider les décisions de trading.
 
+---
+
+# Liste des Indicateurs Techniques
 ## Indicateurs de Tendance
 1. [ ] **Simple Moving Average (SMA)** : Moyenne des prix sur une période définie, indiquant la tendance générale.
 2. [ ] **Exponential Moving Average (EMA)** : Moyenne pondérée des prix, donnant plus d'importance aux prix récents.
