@@ -41,7 +41,7 @@ Une tutoriel "simple" et "spécial développeur" seront créé prochainement. Po
 
 
 
-## Entraînement-du-modèle
+## Entraînement du modèle
 
 ### Patterns de Continuation
 1. [ ] **Flag (Drapeau)** : Petite consolidation après une forte impulsion, avant une reprise dans la même direction.
