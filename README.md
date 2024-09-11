@@ -17,14 +17,14 @@
 ## État du Projet
 - **En développement** : Le modèle est en cours d'entraînement pour détecter 2 pattern (Flag et Pennant).
 - **Dernière mise à jour** : 11 septembre 2024.
-- **Progression** : 0/50 patterns acquis. 
+- **Progression** : 0/55 patterns acquis | 1/50 indicateurs techniques acquis)
 
 ## Progression du Projet
 
 ### Phases du Développement
 1. [x] Installation du modèle sur serveur dédié.
 2. [x] Préparation des données pour l'entraînement.
-3. [x] Entraînement initial du modèle sur 2 patterns.
+3. [ ] Entraînement initial du modèle. 
 4. [ ] Préparation du service Web (Client)
 5. [ ] Intégration de l'API pour les données en temps réel.
 6. [ ] Déploiement du modèle pour l'utilisation en production.
