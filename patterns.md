@@ -1,7 +1,7 @@
 # Liste des Patterns en cours :
 
 ## Patterns de Continuation
-1. [ ] **Flag (Drapeau)** : Petite consolidation après une forte impulsion, avant une reprise dans la même direction. *En cours d'entrainement*
+1. [ ] **Flag (Drapeau)** : Petite consolidation après une forte impulsion, avant une reprise dans la même direction. ![En cours d'entraînement](https://img.shields.io/badge/état-En%20cours%20d'entraînement-orange)
 2. [ ] **Pennant (Fanion)** : Forme de petit triangle formé après une forte impulsion, indiquant une continuation.
 3. [ ] **Bullish Rectangle** : Consolidation horizontale entre deux niveaux, suivie d'une cassure haussière.
 4. [ ] **Bearish Rectangle** : Consolidation horizontale entre deux niveaux, suivie d'une cassure baissière.
@@ -20,7 +20,7 @@
 ## Patterns de Renversement
 16. [ ] **Head and Shoulders** : Sommet avec deux sommets plus petits de chaque côté, indiquant un renversement baissier.
 17. [ ] **Inverse Head and Shoulders** : Inverse du Head and Shoulders, signalant un renversement haussier.
-18. [ ] **Double Top** : Deux sommets consécutifs proches en hauteur, indiquant un renversement baissier.
+18. [ ] **Double Top** : Deux sommets consécutifs proches en hauteur, indiquant un renversement baissier. ![En cours d'entraînement](https://img.shields.io/badge/état-En%20cours%20d'entraînement-orange)
 19. [ ] **Double Bottom** : Deux creux consécutifs proches en profondeur, signalant un renversement haussier.
 20. [ ] **Triple Top** : Trois sommets proches en hauteur, indiquant un renversement baissier.
 21. [ ] **Triple Bottom** : Trois creux proches en profondeur, signalant un renversement haussier.
@@ -60,5 +60,5 @@
 51. [ ] **Bearish Abandoned Baby** : Un gap haussier suivi d'une petite bougie Doji et d'un gap baissier, signalant un renversement baissier.
 52. [ ] **Upside Gap Two Crows** : Un gap haussier suivi de deux petites bougies baissières, signalant un renversement baissier.
 53. [ ] **Downside Gap Three Methods** : Un gap baissier suivi de trois petites bougies haussières, signalant une continuation baissière.
-54. [ ] **Marubozu** : Bougie sans mèche, indiquant une forte conviction dans une direction.
+54. [ ] **Marubozu** : Bougie sans mèche, indiquant une forte conviction dans une direction. ![En cours d'entraînement](https://img.shields.io/badge/état-En%20cours%20d'entraînement-orange)
 55. [ ] **Spinning Top** : Bougie avec de longues mèches et un petit corps, indiquant une indécision.
