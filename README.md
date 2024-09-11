@@ -15,9 +15,24 @@
 ![Contributions](https://img.shields.io/badge/contributions-welcome-orange)
 
 ## État du Projet
-- **En développement** : Le modèle est en cours d'entraînement pour détecter 2 pattern (Flag et Pennant).
+- **En développement** : Le modèle est en cours d'entraînement. (Voir les listes Indateurs et Patterns)
 - **Dernière mise à jour** : 11 septembre 2024.
 - **Progression** : 0/55 patterns acquis | 1/50 indicateurs techniques acquis.
+
+# 🚀 Rejoignez la Communauté IOM sur Discord !
+
+Vous souhaitez participer activement au développement du projet **LSTM-Trading** ou simplement discuter avec d'autres passionnés d'analyse technique et d'IA ? Rejoignez notre serveur Discord pour échanger des idées, suivre les mises à jour du projet, et collaborer avec une communauté dynamique !
+
+🔗 **[Cliquez ici pour rejoindre notre Discord](https://discord.gg/rZwzuUgkPV)**
+
+Sur le serveur, vous trouverez :
+- **💬 Discussions Générales** : Parlez de trading, d'IA, et partagez vos idées.
+- **🛠️ Contributions & Développement** : Contribuez au projet en soumettant des données ou en partageant vos connaissances.
+- **📢 Annonces & Mises à Jour** : Restez informés des dernières nouvelles et avancées du projet.
+- **🤝 Support & Assistance** : Obtenez de l'aide et soutenez les autres membres de la communauté.
+
+Nous sommes impatients de vous accueillir à bord ! 🚀
+
 
 ## Progression du Projet
 
