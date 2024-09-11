@@ -1,13 +1,26 @@
 # LSTM Investment Optimization Model
 Ce projet utilise un modèle LSTM (Long Short-Term Memory) pour optimiser les décisions d'investissement dans les ETF, les cryptomonnaies et les matières premières.
 
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Contributions](https://img.shields.io/badge/contributions-welcome-orange)
+
+## État Actuel
+- **En développement** : Le modèle est en cours d'entraînement pour détecter 2 pattern (Flag et Pennant).
+- **Dernière mise à jour** : 11 septembre 2024.
+- **Progression** : 0/50 patterns acquis. 
+
+## Progression du Projet
+
+### Phases du Développement
+1. [x] Installation du modèle sur serveur dédié.
+2. [x] Préparation des données pour l'entraînement.
+3. [x] Entraînement initial du modèle sur 2 patterns.
+4. [ ] Préparation du service Web (Client)
+5. [ ] Intégration de l'API pour les données en temps réel.
+6. [ ] Déploiement du modèle pour l'utilisation en production.
+
 ## Introduction
-
-Ce projet utilise un modèle LSTM (Long Short-Term Memory) pour optimiser les décisions d'investissement dans les ETF, les cryptomonnaies et les matières premières. Le modèle est conçu pour analyser les données historiques des prix, prédire les tendances futures et fournir des recommandations sur la répartition optimale du portefeuille afin de maximiser les rendements tout en minimisant les risques.
-
-Le projet est conçu pour être facilement déployé et maintenu grâce à l'utilisation de Docker, ce qui permet une portabilité et une scalabilité sur différentes plateformes et environnements.
-
-## Objectif
 
 L'objectif est de développer un système basé sur l'intelligence artificielle capable de détecter en temps réel des patterns techniques sur des graphiques boursiers. Utilisant un modèle LSTM (Long Short-Term Memory), le système sera entraîné à reconnaître des motifs récurrents (Pattern) dans les données financières, tels que les configurations de prix (ex : Épaules-Tête-Épaules, Double Top, etc.) et les signaux d'indicateurs techniques (comme les croisements de moyennes mobiles ou le RSI). L'approche consistera à alimenter le modèle avec des données historiques issues de divers marchés (crypto-monnaies, actions, ETF, matières premières, et autres) et à le former à identifier ces patterns, avec ou sans indicateurs techniques, afin de maximiser la détection de mouvements de marché potentiellement exploitables.
 
@@ -18,7 +31,7 @@ Une fois le modèle entraîné, il sera appliqué en temps réel pour analyser l
 
 - [Fonctionnalités](#fonctionnalités)
 - [Utilisation](#utilisation)
-- [Contributions](#contributions)
+- [Comment Contribuer](#contribuer)
 - [Entraînement du Modèle](#entraînement-du-modèle)
 - [Licence](#licence)
 
@@ -33,13 +46,17 @@ Une fois le modèle entraîné, il sera appliqué en temps réel pour analyser l
 
 Le lien d'accès à l'IA n'est pas encore disponible.
 
-## Contributions
 
-### Contribution en partageant votre savoir :
-Si vous souhaitez partager vos données, pattern, indicateurs, ou tout informations qu'on pourrait faire apprendre au modèle d'IA, Utilisez "Issues" (https://github.com/XtoonsDev/LSTM-Trading/issues/new) afin d'envoyer votre contenu.
-Une tutoriel "simple" et "spécial développeur" seront créé prochainement. Pour toutes autres questions, un système de chat sera mis en place prochainement.
+## Comment Contribuer
 
+Les contributions sont les bienvenues ! Voici comment vous pouvez aider :
+1. **Soumettre des données** : Utilisez les modèles fournis pour partager des données de marché et des annotations de patterns. 
+2. **Suggérer des améliorations** : Ouvrez une *issue* pour proposer de nouvelles fonctionnalités ou des améliorations.
+3. **Faite un don** : Ce projet est développé sur mon temps libre, une donation me permet de fournir plus de temps au projet.
 
+Pour des détails complets, veuillez consulter le fichier [CONTRIBUTING.md](CONTRIBUTING.md). (En attente de création)
+
+Pour toutes demandes, ouvrez une *issue* (https://github.com/XtoonsDev/LSTM-Trading/issues/new)
 
 ## Entraînement du modèle
 
