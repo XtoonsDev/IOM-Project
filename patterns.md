@@ -13,7 +13,6 @@ Apprendre à reconnaître ces patterns peut aider les traders à prendre des dé
 
 ---
 
-# Liste des Patterns en cours :
 ## Patterns de Continuation
 1. [ ] **Flag (Drapeau)** : Petite consolidation après une forte impulsion, avant une reprise dans la même direction. ![En cours d'entraînement](https://img.shields.io/badge/état-En%20cours%20d'entraînement-orange)
 2. [ ] **Pennant (Fanion)** : Forme de petit triangle formé après une forte impulsion, indiquant une continuation.

@@ -13,7 +13,6 @@ Les indicateurs techniques sont essentiels pour les traders qui basent leurs str
 
 ---
 
-# Liste des Indicateurs Techniques
 ## Indicateurs de Tendance
 1. [ ] **Simple Moving Average (SMA)** : Moyenne des prix sur une période définie, indiquant la tendance générale.
 2. [ ] **Exponential Moving Average (EMA)** : Moyenne pondérée des prix, donnant plus d'importance aux prix récents.
