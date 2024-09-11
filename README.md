@@ -57,11 +57,11 @@ Les contributions sont les bienvenues ! Voici comment vous pouvez aider :
 2. **Suggérer des améliorations** : Ouvrez une *issue* pour proposer de nouvelles fonctionnalités ou des améliorations.
 3. **Faite un don** : Ce projet est développé sur mon temps libre, une donation me permet de fournir plus de temps au projet.
 
-Pour des détails complets, veuillez consulter le fichier [CONTRIBUTING.md](CONTRIBUTING.md). (En attente de création)
+Pour des détails complets, veuillez consulter le fichier [StartUp.md](StartUp.md).
 
 Pour toutes demandes, ouvrez une *issue* (https://github.com/XtoonsDev/LSTM-Trading/issues/new)
 
 ## Entraînement du modèle
 
-1. [liste des patterns disponibles](patterns.md).
-2. [liste des indicateurs disponibles](indicateurs.md).
+1. [liste des patterns](patterns.md).
+2. [liste des indicateurs](indicateurs.md).
