@@ -17,7 +17,7 @@
 ## État du Projet
 - **En développement** : Le modèle est en cours d'entraînement pour détecter 2 pattern (Flag et Pennant).
 - **Dernière mise à jour** : 11 septembre 2024.
-- **Progression** : 0/55 patterns acquis | 1/50 indicateurs techniques acquis)
+- **Progression** : 0/55 patterns acquis | 1/50 indicateurs techniques acquis.
 
 ## Progression du Projet
 
