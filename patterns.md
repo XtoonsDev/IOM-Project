@@ -1,5 +1,19 @@
 # Liste des Patterns en cours :
 
+## 📊 Qu'est-ce qu'un Pattern en Bourse ?
+
+Un **Pattern**, ou motif graphique, en bourse est une formation visuelle sur un graphique des prix d'un actif (comme une action, une crypto-monnaie, ou une matière première) qui indique un comportement récurrent du marché. Les traders et les analystes utilisent ces patterns pour essayer de prédire les mouvements futurs des prix.
+
+Les patterns sont basés sur les variations des prix et peuvent signaler des retournements de tendance (lorsque le marché passe d'une tendance haussière à une tendance baissière, ou vice versa) ou des continuations de tendance (lorsque la tendance actuelle se poursuit). Ils sont identifiables sur des graphiques de prix en utilisant des lignes de tendance, des courbes ou d'autres outils graphiques.
+
+**Exemples de Patterns :**
+- **Double Top** : Un pattern de retournement qui ressemble à deux sommets consécutifs de prix, suggérant un renversement à la baisse.
+- **Head and Shoulders** : Un pattern de retournement qui ressemble à une tête (plus haut sommet) entourée de deux épaules (sommets plus bas), signalant souvent un renversement baissier.
+- **Bullish Flag** : Un pattern de continuation qui ressemble à un drapeau et indique que le mouvement haussier devrait continuer après une pause.
+
+Apprendre à reconnaître ces patterns peut aider les traders à prendre des décisions d'achat ou de vente basées sur des probabilités historiques.
+
+
 ## Patterns de Continuation
 1. [ ] **Flag (Drapeau)** : Petite consolidation après une forte impulsion, avant une reprise dans la même direction. ![En cours d'entraînement](https://img.shields.io/badge/état-En%20cours%20d'entraînement-orange)
 2. [ ] **Pennant (Fanion)** : Forme de petit triangle formé après une forte impulsion, indiquant une continuation.
