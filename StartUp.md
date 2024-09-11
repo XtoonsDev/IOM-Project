@@ -7,12 +7,12 @@ Bienvenue dans le projet de développement de notre modèle d'IA de détection d
 Pour aider au développement du modèle d'IA, vous avez deux options principales :
 
 ### 1. Choisir un Pattern et Préparer des Modèles d'Entraînement
-- **Sélectionnez un pattern** à partir de [la liste des patterns disponibles](#). 
+- **Sélectionnez un pattern** à partir de la [liste des patterns disponibles](patterns.md).
 - Préparez des ensembles de données annotées avec ce pattern.
 - Fournissez ces données en suivant un tutoriel complet qui vous expliquera pas à pas comment préparer les données nécessaires.
 
 ### 2. Choisir un Indicateur Technique et Préparer des Modèles d'Entraînement
-- **Sélectionnez un indicateur technique** que vous aimeriez voir intégré dans le modèle.
+- **Sélectionnez un indicateur technique** à partir de la [liste des indicateurs disponibles](indicateurs.md).
 - Préparez des ensembles de données utilisant cet indicateur comme référence.
 - Utilisez le tutoriel dédié pour vous guider dans le processus de préparation et de soumission des données.
 
