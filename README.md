@@ -1,11 +1,20 @@
 # LSTM Investment Optimization Model
-Ce projet utilise un modèle LSTM (Long Short-Term Memory) pour optimiser les décisions d'investissement dans les ETF, les cryptomonnaies et les matières premières.
+
+## Table des Matières
+
+- [État du Projet](#état-du-projet)
+- [Accessibilité au Modèle](StartUp.md) 
+- [Fonctionnalités](#fonctionnalités)
+- [Utilisation](#utilisation)
+- [Comment Contribuer](#comment-contribuer)
+- [Entraînement du Modèle](#entraînement-du-modèle)
+- [Licence](#licence)
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Contributions](https://img.shields.io/badge/contributions-welcome-orange)
 
-## État Actuel
+## État du Projet
 - **En développement** : Le modèle est en cours d'entraînement pour détecter 2 pattern (Flag et Pennant).
 - **Dernière mise à jour** : 11 septembre 2024.
 - **Progression** : 0/50 patterns acquis. 
@@ -27,13 +36,7 @@ L'objectif est de développer un système basé sur l'intelligence artificielle 
 Une fois le modèle entraîné, il sera appliqué en temps réel pour analyser les fluctuations des prix sur plusieurs marchés simultanément. Dès qu'un pattern défini est détecté, le système émettra des alertes, permettant ainsi une réactivité accrue pour les prises de décision financières. Ce projet vise à exploiter les capacités des réseaux de neurones récurrents, tels que les LSTM, pour capturer la nature séquentielle et dynamique des marchés financiers, tout en automatisant la détection de configurations techniques complexes pour optimiser les stratégies de trading.
 
 
-## Table des Matières
 
-- [Fonctionnalités](#fonctionnalités)
-- [Utilisation](#utilisation)
-- [Comment Contribuer](#contribuer)
-- [Entraînement du Modèle](#entraînement-du-modèle)
-- [Licence](#licence)
 
 ## Fonctionnalités
 
