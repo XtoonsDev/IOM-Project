@@ -2,7 +2,7 @@
 La liste ci dessous inclus les symbol de divers marché financier, être intégré à notre base de données d'apprentissage ne veut pas nécéssairement dire que notre IA l'a intégré mais qu'il est prévue dans son apprentissage.
 Si vous souhaitez inclure des marchés différents ouvrez un *issues* ou connectez vous à notre serveur discord.
 
-
+# Yahoo Finance
 ## ETFs
 ```
 
@@ -41,3 +41,4 @@ Si vous souhaitez inclure des marchés différents ouvrez un *issues* ou connect
 		
 ```
 
+# Binance
