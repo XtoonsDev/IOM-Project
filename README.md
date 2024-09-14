@@ -1,6 +1,6 @@
 # 🚀 LSTM Investment Optimization Model
 
-Bienvenue dans le projet **LSTM Investment Optimization Model** ! Nous développons une IA pour détecter des patterns techniques en temps réel sur des graphiques boursiers afin d'optimiser les stratégies de trading.
+Bienvenue dans le projet **IOM-Project Investment Optimization Model** ! Nous développons une IA pour détecter des patterns techniques en temps réel sur des graphiques boursiers afin d'optimiser les stratégies de trading.
 
 ## 📚 Table des Matières
 
@@ -23,9 +23,9 @@ Bienvenue dans le projet **LSTM Investment Optimization Model** ! Nous développ
 
 ---
 
-## 🚀 Rejoignez la Communauté LSTM-Trading sur Discord !
+## 🚀 Rejoignez la Communauté IOM-Project sur Discord !
 
-Vous souhaitez participer activement au développement du projet **LSTM-Trading** ou simplement discuter avec d'autres passionnés d'analyse technique et d'IA ? Rejoignez notre serveur Discord pour échanger des idées, suivre les mises à jour du projet, et collaborer avec une communauté dynamique !
+Vous souhaitez participer activement au développement du projet **IOM-Project** ou simplement discuter avec d'autres passionnés d'analyse technique et d'IA ? Rejoignez notre serveur Discord pour échanger des idées, suivre les mises à jour du projet, et collaborer avec une communauté dynamique !
 
 🔗 **[Cliquez ici pour rejoindre notre Discord](https://discord.gg/rZwzuUgkPV)**
 
@@ -83,7 +83,7 @@ Les contributions sont les bienvenues ! Voici comment vous pouvez aider :
 
 Pour des détails complets, veuillez consulter le fichier [StartUp.md](StartUp.md).
 
-Pour toutes demandes, ouvrez une *issue* sur [GitHub](https://github.com/XtoonsDev/LSTM-Trading/issues/new).
+Pour toutes demandes, ouvrez une *issue* sur [GitHub](https://github.com/XtoonsDev/IOM-Project/issues/new).
 
 ---
 
@@ -100,4 +100,4 @@ Ce projet est sous licence MIT. Pour plus d'informations, consultez le fichier [
 
 ---
 
-**Merci de faire partie de cette aventure avec LSTM-Trading !** 🚀
+**Merci de faire partie de cette aventure avec IOM-Project !** 🚀
