@@ -62,4 +62,57 @@ Si vous souhaitez inclure des marchés différents ouvrez un *issues* ou connect
 		
 ```
 
+## Stocks
+```
+
+"NVDA", "NIO", "TSLA", "WBD", "PLTR", "SOFI", "INTC", "MPW", "AAL", "BBD",
+        "MARA", "F", "AAPL", "SNAP", "UBER", "BAC", "T", "LCID", "U", "ASTS", "AVGO",
+        "DJT", "ORCL", "NU", "BCS", "SMMT", "AMD", "RIVN", "JBLU", "AMZN", "RIG",
+        "GOOGL", "WFC", "CCL", "X", "BTG", "NGD", "LYFT", "VALE", "PBR", "BA", "SWN",
+        "HPE", "MU", "PFE", "CORZ", "CLSK", "ABEV", "SLB", "LUMN", "KGC", "HL", "GOLD",
+        "WBA", "CDE", "PDD", "CLF", "VZ", "UAA", "RIOT", "ITUB", "GOOG", "CVE", "AFRM",
+        "ERIC", "RKLB", "STLA", "AGNC", "NVAX", "MSTR", "SBSW", "OXY", "KEY", "MRNA",
+        "EW", "NOK", "HOOD", "PATH", "WMT", "PR", "ZI", "GRAB", "CX", "MSFT", "ARM",
+        "NCLH", "GEHC", "UMC", "CNH", "SBUX", "HBAN", "ADBE", "PCG", "TFC", "CNQ", "DKNG",
+        "FCX", "KVUE", "ET", "CMCSA"
+		
+```
+
+## Options
+```
+
+"IWM241018P00204000", "MO240920C00045000", "HYG241018P00073000", "MO240920C00047500",
+        "SPY240916C00563000", "MO240920C00050000", "SPY240916C00562000", "MO250117C00040000",
+        "MO250117C00042500", "MO250117C00035000", "SPY240916P00560000", "NVDA240920C00120000",
+        "IWM241018P00206000", "IWM241018P00201000", "SLV250117C00045000", "IWM240920C00220000",
+        "NVDA240920C00125000", "EEM250620C00043000", "SPY240916C00561000", "SPY240916C00564000"
+		
+```
+
+## Forex
+```
+
+"EURUSD=X", "JPY=X", "GBPUSD=X", "AUDUSD=X", "NZDUSD=X", "EURJPY=X", "GBPJPY=X",
+        "EURGBP=X", "EURCAD=X", "EURSEK=X", "EURCHF=X", "EURHUF=X", "CNY=X", "HKD=X",
+        "SGD=X", "INR=X", "MXN=X", "PHP=X", "IDR=X", "THB=X", "MYR=X", "ZAR=X", "RUB=X"
+		
+```
+
+## Bonds
+```
+
+"^IRX", "^FVX", "^TNX", "^TYX", "2YY=F", "ZN=F"
+		
+```
+
+## FUTURES
+```
+
+"ES=F", "YM=F", "NQ=F", "RTY=F", "ZB=F", "ZN=F", "ZF=F", "ZT=F", "GC=F", "MGC=F",
+        "SI=F", "SIL=F", "PL=F", "HG=F", "PA=F", "CL=F", "HO=F", "NG=F", "RB=F", "BZ=F",
+        "B0=F", "ZC=F", "ZO=F", "KE=F", "ZR=F", "ZM=F", "ZL=F", "ZS=F", "GF=F", "HE=F",
+        "LE=F", "CC=F", "KC=F", "CT=F", "LBS=F", "OJ=F", "SB=F"
+		
+```
+
 # Binance
