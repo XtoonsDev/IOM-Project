@@ -18,8 +18,9 @@ Bienvenue dans le projet **IOM-Project Investment Optimization Model** ! Nous d�
 
 ## 📊 État du Projet
 - **En développement** : Le modèle est en cours d'entraînement. (Voir les [listes d'Indicateurs](indicateurs.md) et de [Patterns](patterns.md))
-- **Dernière mise à jour** : 11 septembre 2024.
-- **Progression** : 0/55 patterns acquis | 1/50 indicateurs techniques acquis.
+- **Dernière mise à jour** : 15 septembre 2024.
+- **Acquis des fondamentaux boursier** :  15%
+- **Progression** : 0/55 patterns acquis | 0/50 indicateurs techniques acquis.
 
 ---
 
@@ -45,9 +46,8 @@ Nous sommes impatients de vous accueillir à bord ! 🚀
 1. ✅ Installation du modèle sur serveur dédié.
 2. ✅ Préparation des données pour l'entraînement.
 3. 🟧 Entraînement initial du modèle.
-4. ⬜ Préparation du service Web (Client)
-5. ⬜ Intégration de l'API pour les données en temps réel.
-6. ⬜ Déploiement du modèle pour l'utilisation en production.
+4. 🟧 Création d'une chaine Youtube pour faire un point hebdomadaire
+5. ⬜ Finalisation des fondamentaux (Charts & visuel)
 
 ---
 
@@ -71,6 +71,8 @@ L'objectif est de développer un système basé sur l'intelligence artificielle 
 ## 🛠️ Utilisation
 
 🚫 Le lien d'accès à l'IA n'est pas encore disponible. Restez à l'écoute pour les mises à jour !
+A ce jour et dans un premier temps, il est imaginé que l'IA enverra des signaux sur notre serveur discord pendant la phase de test. 
+Dans un second temps nous développerons une plateforme Web complète
 
 ---
 
@@ -85,6 +87,7 @@ Pour des détails complets, veuillez consulter le fichier [StartUp.md](StartUp.m
 
 Pour toutes demandes, ouvrez une *issue* sur [GitHub](https://github.com/XtoonsDev/IOM-Project/issues/new).
 
+**Nouveau [Cliquez ici pour rejoindre notre Discord](https://discord.gg/rZwzuUgkPV)**
 ---
 
 ## 📈 Entraînement du modèle
